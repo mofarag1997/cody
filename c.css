@@ -17,7 +17,7 @@ p{
     display: flex;
     justify-content: center;
     color: white;
-    font-size: 60px;
+    font-size: 50px;
     margin: 40px 0;
     text-shadow: 0 0 50px yellowgreen;
 }
@@ -31,7 +31,7 @@ button{
     color: white;
     cursor: pointer;
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 600px) {
     p {
         margin: 10px 0;
     }
